@@ -1,5 +1,4 @@
 # uask-agent
-=======
 # UAsk Chatbot Automation
 
 This project contains the automated test suite for the UAsk Chatbot, built using [Playwright](https://playwright.dev/). It covers UI, API, Security, and AI response validation scenarios to ensure the reliability and safety of the chatbot.
