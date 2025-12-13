@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # uask-agent
 =======
 # UAsk Chatbot Automation
@@ -107,4 +106,3 @@ Tests the backend communication and error handling states.
 ├── playwright.config.ts  # Playwright configuration
 └── README.md             # Project documentation
 ```
->>>>>>> 2f15762 (Initial commit)
